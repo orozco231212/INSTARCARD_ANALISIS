@@ -144,6 +144,10 @@ El notebook está organizado en **7 momentos**:
 
 ---
 
+## Notebook de ejecución completa
+
+Abre `notebooks/01_ejecucion_completa.ipynb` y ejecuta **Run All** para recorrer la carga de datos, exploración, filtros, indicadores, integración de tablas y visualizaciones. El notebook guarda las salidas de la ejecución y utiliza los CSV de ejemplo incluidos en `data/`.
+
 ## 📝 Licencia
 
 Proyecto académico – SENA. Uso educativo.
