@@ -1,0 +1,5 @@
+order_id,product_id,add_to_cart_order,reordered,product_name,aisle_id,department_id,aisle,department,user_id,order_number,order_dow,order_hour_of_day,days_since_prior_order
+1,1,1,0,Apple,1,1,fruit,produce,101,1,0,10,
+1,2,2,1,Banana,2,1,fruit,produce,101,1,0,10,
+2,3,1,0,Milk,3,2,dairy,dairy,102,1,1,14,
+3,1,1,1,Apple,1,1,fruit,produce,101,2,0,10,7
